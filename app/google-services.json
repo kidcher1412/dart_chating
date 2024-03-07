@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "731313957702",
+    "firebase_url": "https://XXX-default-rtdb.firebaseio.com",
+    "project_id": "XXX",
+    "storage_bucket": "XXX.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731313957702:android:6ab0ff943296e158685347",
+        "android_client_info": {
+          "package_name": "com.thangcao.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731313957702-a2pel2fte52eadf3he2e42vt5df6n727.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thangcao.chatting",
+            "certificate_hash": "6c7fd64a9247cd7b0a7fdff6b9a58eb284ed9215"
+          }
+        },
+        {
+          "client_id": "731313957702-r174g8uv2ol8p7emesm6tdqri6ghmi9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_4wysvGtV3YuRZ9u0-Zb6KziH2RlwM1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731313957702-r174g8uv2ol8p7emesm6tdqri6ghmi9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
